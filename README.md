@@ -2,7 +2,7 @@
 
 I'm noooooom
 
-is a Junior web front end developer😳
+Is a Junior web front end developer😳
 
 Trying to do better🐬!(Why is there no shark in Emoji?!)
 
