@@ -2,9 +2,11 @@
 
 I'm noooooom
 
-Is a Junior web front end developer😳
+Is a web front end developer from China
 
-Trying to do better🐬!(Why is there no shark in Emoji?!)
+My English is not very good😳
+
+Trying to do better🐬!(Why is there no shark in Emoji!)
 
 [![nooooooom's github stats](https://github-readme-stats.vercel.app/api?username=nooooooom)]()
 
